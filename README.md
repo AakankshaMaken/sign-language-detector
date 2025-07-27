@@ -5,9 +5,8 @@ A real-time sign language recognition system using MediaPipe for hand tracking, 
 ---
 
 ## 📹 Demo
-*(Insert GIF or link to a video demo here)*  
-Example:  
-![Demo](demo/demo.gif)
+https://drive.google.com/file/d/19iaxnNY1D5eIaSQV-lnUYkN90lugIfE2/view?usp=drive_link 
+
 
 ---
 
