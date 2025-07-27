@@ -33,4 +33,23 @@ Example:
 
 ## 📁 Project Structure
 
+```
+sign-language-detector/
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── src/
+│   ├── app.py               # Real-time sign language detection
+│   ├── collectdata.py       # Collects raw hand gesture images
+│   ├── data.py              # Extracts MediaPipe keypoints to .npy files
+│   ├── trainmodel.py        # LSTM model training script
+│   └── function.py          # Utility functions (MediaPipe, landmarks, etc.)
+├── model/
+│   ├── model.h5             # Trained model weights
+│   └── model.json           # Model architecture
+├── demo/
+│   └── demo.gif             # Demo of the working app
+```
+
+
 
